@@ -20,6 +20,6 @@ npx playwright test
 
 ## Project structure
 
-- `tests/contact-form.spec.js` — the contact form test
-- `playwright.config.js` — Playwright configuration (base URL, browser projects)
-- `screenshots/` — screenshots captured during test runs (git-ignored)
+- `tests/contact-form.spec.js` - the contact form test
+- `playwright.config.js` - Playwright configuration (base URL, browser projects)
+- `screenshots/` - screenshots captured during test runs (git-ignored)
